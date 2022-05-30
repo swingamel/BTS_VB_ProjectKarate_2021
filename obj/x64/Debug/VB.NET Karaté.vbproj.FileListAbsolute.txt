@@ -1,0 +1,32 @@
+D:\bts sio\Atelier professionnel\Semestre 2\VB.NET Karaté\obj\x64\Debug\VB.NET Karaté.vbprojAssemblyReference.cache
+D:\bts sio\Atelier professionnel\Semestre 2\VB.NET Karaté\obj\x64\Debug\VB.NET_Karaté.Frm_GestionEntraineur_AJ.resources
+D:\bts sio\Atelier professionnel\Semestre 2\VB.NET Karaté\obj\x64\Debug\VB.NET_Karaté.Resources.resources
+D:\bts sio\Atelier professionnel\Semestre 2\VB.NET Karaté\obj\x64\Debug\VB.NET Karaté.vbproj.GenerateResource.cache
+D:\bts sio\Atelier professionnel\Semestre 2\VB.NET Karaté\obj\x64\Debug\VB.NET Karaté.vbproj.CoreCompileInputs.cache
+D:\bts sio\Atelier professionnel\Semestre 2\VB.NET Karaté\bin\x64\Debug\VB.NET Karaté.exe.config
+D:\bts sio\Atelier professionnel\Semestre 2\VB.NET Karaté\bin\x64\Debug\VB.NET Karaté.exe
+D:\bts sio\Atelier professionnel\Semestre 2\VB.NET Karaté\bin\x64\Debug\VB.NET Karaté.pdb
+D:\bts sio\Atelier professionnel\Semestre 2\VB.NET Karaté\bin\x64\Debug\VB.NET Karaté.xml
+D:\bts sio\Atelier professionnel\Semestre 2\VB.NET Karaté\obj\x64\Debug\VB.NET Karaté.exe
+D:\bts sio\Atelier professionnel\Semestre 2\VB.NET Karaté\obj\x64\Debug\VB.NET Karaté.xml
+D:\bts sio\Atelier professionnel\Semestre 2\VB.NET Karaté\obj\x64\Debug\VB.NET Karaté.pdb
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\bin\x64\Debug\VB.NET Karaté.exe.config
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\bin\x64\Debug\VB.NET Karaté.exe
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\bin\x64\Debug\VB.NET Karaté.pdb
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\bin\x64\Debug\VB.NET Karaté.xml
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET Karaté.vbprojAssemblyReference.cache
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET_Karaté.Frm_AffectationEntraineur_AJ.resources
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET_Karaté.Frm_GestionEntraineur_AJ.resources
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET_Karaté.Frm_GestionEntraineur_MS.resources
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET_Karaté.Resources.resources
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET Karaté.vbproj.GenerateResource.cache
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET Karaté.vbproj.CoreCompileInputs.cache
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET Karaté.exe
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET Karaté.xml
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET Karaté.pdb
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET_Karaté.MenuGestionEntraineur.resources
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET_Karaté.MenuAffectationEntraineur.resources
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET_Karaté.Frm_Affichage_Global.resources
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET_Karaté.Frm_AffectationEntraineur_MS.resources
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET_Karaté.Frm_Affichage_Global_Resultat.resources
+D:\bts sio\Atelier professionnel\Semestre 2\ap2.1_equipe6\VB.NET Karaté\obj\x64\Debug\VB.NET_Karaté.EspaceEntraineur.resources
